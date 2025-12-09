@@ -1,2 +1,2 @@
 # Juego-serio-de-rehabilitaci-n-f-sica-basado-en-C-y-Unity
-Este es un proyeto basado en el desarrollo de un juego serio para la rehabilitación fisica mediante el uso del motor gráfico Unity y la adquisición, procesamiento y envio de datos en tiempo real con lenguaje C
+Este es un proyeto basado en el desarrollo de un juego serio para la rehabilitación fisica mediante el uso del motor gráfico Unity y la adquisición, procesamiento y envio de datos en tiempo real con lenguaje C. Todo lo anterior usando el sensor MPU 6050 el Ad8232
